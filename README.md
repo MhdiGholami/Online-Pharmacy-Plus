@@ -13,13 +13,13 @@
 ![temp conversion](https://github.com/user-attachments/assets/042f5c4a-69a1-4f94-82ed-814ed4000b9c)
 
 
-- [Demo Project]() ✅
+- [Demo Project](https://mhdigholami.github.io/Online-Pharmacy-Plus/) ✅
 
 - Developed by Mahdi Gholami
 
 - Created - 2026
 
-- Technologies Used - Html , css , js
+- Technologies Used - Html , CSS , JS , Tailwind CSS
 
 - Role - Frontend
 
